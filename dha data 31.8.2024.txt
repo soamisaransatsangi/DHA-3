@@ -1,0 +1,15 @@
+// Instructions: Complete the following program by writing the required code in the marked sections as per "TODO".
+
+#include <stdio.h>
+
+int main() {
+   int a = 10;
+   float pi = 3.14;
+    // TODO: Write a line of code here to display "Hello, World!" using printf
+     printf("Hello, World!");
+    // TODO: Write a line of code here to display a formatted integer, e.g., "The number is 10"
+     printf("The number is %d",a);
+    // TODO: Write a line code here to display a floating-point number, e.g., "The value of pi is approximately 3.14"
+    printf("The value of pi is approximately %f",pi);
+    return 0;
+}
